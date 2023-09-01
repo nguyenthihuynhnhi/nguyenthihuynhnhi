@@ -1,6 +1,7 @@
 [![MasterHead](./assets/hocbaitrongmua.gif)](https://github.com/nguyenthihuynhnhi)
 
 <p align="center">
+<br/>
     <img
         align="center"
         src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F3F7FF&width=435&lines=2+%2B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=45&vCenter=true&pause=1000&size=25"
@@ -104,23 +105,23 @@
 ## My Stats:
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vulebaolong&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="vulebaolong" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthihuynhnhi&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="nguyenthihuynhnhi" />
 </p>
 
 ## Activity On GitHub:
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vulebaolong&&theme=tokyonight&hide_border=true" alt="vulebaolong" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthihuynhnhi&&theme=tokyonight&hide_border=true" alt="nguyenthihuynhnhi" />
 </p>
 
 ## Profile Trophy:
 
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=vulebaolong&theme=tokyonight&no-frame=true&row=1&column=5&rank=-?" alt="vulebaolong" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nguyenthihuynhnhi&theme=tokyonight&no-frame=true&row=1&column=5&rank=-?" alt="nguyenthihuynhnhi" />
 </p>
 
 ## Most Used Languages:
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vulebaolong&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="vulebaolong" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenthihuynhnhi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="nguyenthihuynhnhi" />
 </p>
