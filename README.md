@@ -12,7 +12,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/nguyenthihuynhnhi">NGUYEN THI HUYNH NHI</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
 
-
 ## Profile Views:
 
 <img align="right" width="300" src="./assets/computer.gif" alt="coding" />
