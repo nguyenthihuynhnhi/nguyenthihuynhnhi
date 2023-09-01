@@ -11,8 +11,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/nguyenthihuynhnhi">NGUYEN THI HUYNH NHI</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
 
-<br/>
-<br/>
 
 ## Profile Views:
 
@@ -40,23 +38,23 @@
 ## Connect with me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/vulebaolong/" target="blank"
+    <a href="https://www.linkedin.com/in/nguyenthihuynhnhi/" target="blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="www.linkedin.com/in/vulebaolong"
+            alt="https://www.linkedin.com/in/nguyenthihuynhnhi/"
             height="30"
             width="40"
     /></a>
-    <a href="https://www.facebook.com/profile.php?id=100073114167973" target="blank"
-        ><img
+    <a href="#imgfb"
+        ><img id="imgfb"
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="long long"
             height="30"
             width="40"
     /></a>
-    <a href="https://instagram.com/vulebaolong/" target="blank"
+    <a href="#imgfb" 
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -80,25 +78,25 @@
     <a href="https://github.com/vulebaolong/L9-Learning_vulebaolong"
         ><img
             width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9-Learning_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9-Learning_vulebaolong&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
     <a href="https://github.com/vulebaolong/L9_Learning_API_vulebaolong"
         ><img
             width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9_Learning_API_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9_Learning_API_vulebaolong&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
     <a href="https://github.com/vulebaolong/BC44_REACTJS_43_Nhom9_Netflix/tree/vulebaolong_API_MOVIE"
         ><img
             width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=BC44_REACTJS_43_Nhom9_Netflix&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=BC44_REACTJS_43_Nhom9_Netflix&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
     <a href="https://github.com/vulebaolong/Movie_API_vulebaolong"
         ><img
             width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=Movie_API_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=Movie_API_vulebaolong&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
 </p>
