@@ -14,11 +14,9 @@
 <br/>
 <br/>
 
-
-
 ## Profile Views:
-<br/>
-<img align="right" width="350" src="./assets/computer.gif" alt="coding" />
+
+<img align="right" width="300" src="./assets/computer.gif" alt="coding" />
 
 <table>
     <tr>
