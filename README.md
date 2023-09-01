@@ -33,9 +33,9 @@
 
 - 🌱 I’m currently learning **Back End**
 - 💬 Ask me about **MEARN**
-- 📫 How to reach me **vulebaolong@gmail.com**
+- 📫 How to reach me **Huynhnhinguyen0301@gmail.com**
 - ⚡ Fun fact **I think I am funny**
-- 📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="blank">VI</a>**
+- 📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1QeuPda5MJTXKU9pv-DXADZGef0y1_poU/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/15zETnUrHkedBM9sPneMxKVTzQT3L5Mjr/view?usp=sharing" target="blank">VI</a>**
 
 ## Connect with me:
 
