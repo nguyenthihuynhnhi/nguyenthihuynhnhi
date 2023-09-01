@@ -11,6 +11,11 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/nguyenthihuynhnhi">NGUYEN THI HUYNH NHI</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
 
+<br/>
+<br/>
+
+<img align="right" width="350" src="./assets/computer.gif" alt="coding" />
+
 ## Profile Views:
 
 <table>
@@ -23,11 +28,8 @@
         </td>
     </tr>
 </table>
-<img align="right" width="250" src="./assets/computer.gif" alt="coding" />
 
 ## What I'm Doing:
-
-
 
 - 🌱 I’m currently learning **Back End**
 - 💬 Ask me about **MEARN**
