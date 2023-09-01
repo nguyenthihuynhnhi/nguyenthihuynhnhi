@@ -116,7 +116,7 @@
 ## Profile Trophy:
 
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nguyenthihuynhnhi&theme=tokyonight&no-frame=true&row=1&column=5&rank=-?" alt="nguyenthihuynhnhi" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nguyenthihuynhnhi&theme=tokyonight&no-frame=true&row=1&column=2&rank=-?" alt="nguyenthihuynhnhi" />
 </p>
 
 ## Most Used Languages:
