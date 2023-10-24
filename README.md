@@ -84,7 +84,7 @@
     <a href="https://github.com/nguyenthihuynhnhi/BC44_REACTJS_B35_ShoeShopRedux.git"
         ><img
             width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenthihuynhnhi&repo=BC44_REACTJS_B35_ShoeShopRedux.git&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenthihuynhnhi&repo=BC44_REACTJS_B35_ShoeShopRedux&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
     <a href="https://github.com/vulebaolong/BC44_REACTJS_43_Nhom9_Netflix/tree/vulebaolong_API_MOVIE"
