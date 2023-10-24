@@ -78,7 +78,7 @@
     <a href="https://github.com/nguyenthihuynhnhi/L9_ELearning_NguyenThiHuynhNhi"
         ><img
             width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9-Learning_vulebaolong&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenthihuynhnhi&repo=L9_ELearning_NguyenThiHuynhNhi&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
     <a href="https://github.com/vulebaolong/L9_Learning_API_vulebaolong"
